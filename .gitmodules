@@ -1,0 +1,3 @@
+[submodule "python_flask"]
+	path = python_flask
+	url = https://github.com/kravivar/python-flask-full-stack.git
